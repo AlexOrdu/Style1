@@ -15,3 +15,6 @@ File: Featured Slider CSS
 .featured_slide_Image div.introtext{position:absolute; top:450px; left:0; width:920px; padding:20px 10px; color:#fff; background-color:#000; text-align:center; opacity:0.7; display:none;}
 #featured_slide_ h2{margin:0 0 8px 0; padding:0; line-height:normal; font-size:22px; font-weight:normal; font-family:Verdana, Geneva, sans-serif;}
 #featured_slide_ p{margin:0; padding:0; border:none; outline:none; list-style:none; text-decoration:none; line-height:normal;}
+.featuredImage{ position:relative;float:left; margin:0; padding:0; width:940px; height:540px; list-style:none;}
+.featuredImage img{width:940px; height:540px;}
+.featured_slide_Image div.introtext{position:absolute; top:450px; left:0; width:920px; padding:20px 10px; color:#fff; background-color:#000; text-align:center; opacity:0.7; display:none;}
